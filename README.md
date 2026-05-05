@@ -67,4 +67,4 @@ This is a community-built skill using Claude as the runtime. It is not affiliate
 
 ---
 
-Built by [Lilian Bennett](https://github.com/lilianobennett-ai). If this saves you time, the repo and tell me how you customised it.
+Built by [Lilian Bennett](https://github.com/lilianobennett-ai). "If this saves you time, ⭐ star the repo and tell me how you customised it.
