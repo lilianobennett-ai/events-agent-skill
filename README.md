@@ -1,6 +1,6 @@
 # events-research-agent
 
-> A Claude Skill for partnerships and growth marketers who want consistent, structured event evaluations across every session.
+> A Claude Skill for growth marketers who want consistent, structured event evaluations across every session.
 
 Stops you re-pasting your ICP, competitor list, and verdict framework into every conversation. Instead, the skill loads the structure once and applies it consistently to every event question you ask.
 
@@ -67,4 +67,4 @@ This is a community-built skill using Claude as the runtime. It is not affiliate
 
 ---
 
-Built by [Lilian Bennett](https://github.com/lilianobennett-ai). If this saves you time, ⭐ the repo and tell me how you customised it.
+Built by [Lilian Bennett](https://github.com/lilianobennett-ai). If this saves you time, the repo and tell me how you customised it.
